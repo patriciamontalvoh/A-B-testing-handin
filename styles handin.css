@@ -1,7 +1,7 @@
 /* Colors */
 :root{
-  --primary-color: #FDFFF7; 
-  --second-color: #001AFF  ;
+  --primary-color: #f7f4f1; 
+  --second-color: #001AFF;
   --third-color: #000000;
 }
   
@@ -65,7 +65,7 @@ height: auto;
 display: flex;
 flex-direction: column;
 overflow-x: hidden;
-background-color:  #FDFFF7;
+background-color: #f7f4f1; 
 align-items: left;
 margin-left: 10%;
 margin-right: 10%;
@@ -170,7 +170,7 @@ text-decoration-thickness: .35rem;
 
 /* white */
 .section-text-white{
-  color: #FDFFF7;
+  color: #f7f4f1; 
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
