@@ -175,9 +175,7 @@ text-decoration-thickness: .35rem;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-display: flex;
-justify-content: center;
-align-content: baseline
+opacity:75%
 }
 
 .link-text{
